@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListarCovers.qml</file>
+        <file>ListarPictures.qml</file>
+        <file>VerImagen.qml</file>
+        <file>img/error_imagen.svg</file>
+    </qresource>
+</RCC>
